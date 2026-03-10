@@ -1,11 +1,8 @@
-# Credenciais — NUNCA versionar
 *.json
 service_account*.json
 
-# Dados brutos — armazenados no GCS
 dados/*.csv
 *.csv
 
-# OS
 .DS_Store
 Thumbs.db
