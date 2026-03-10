@@ -289,6 +289,22 @@ Projeto desenvolvido como parte do **Desafio Técnico 01** da comunidade [**Dado
 
 ---
 
+## 🖼️ Prints do Dashboard
+
+**Página 1 — Filmes**
+
+![Movies](assets/movie.png)
+
+**Página 2 — Ratings ao Longo do Tempo**
+
+![Ratings](assets/rating.png)
+
+**Página 3 — Usuários**
+
+![Users](assets/users.png)
+
+---
+
 ## 📄 Licença
 
 Dataset [MovieLens](https://grouplens.org/datasets/movielens/) disponibilizado pelo GroupLens Research.
